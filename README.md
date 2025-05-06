@@ -96,14 +96,13 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙏 Acknowledgments
 
-- [Lovable](https://lovable.dev) - AI-powered development platform
 - [Framer Motion](https://www.framer.com/motion/) - For animation capabilities
 - [Tailwind CSS](https://tailwindcss.com/) - For styling
 
 ## 📞 Contact
 
-For questions or feedback, please reach out to [your-email@example.com](mailto:your-email@example.com)
+For questions or feedback, please reach out to sh0034879@gmail.com
 
 ---
 
-Created with ❤️ using [Lovable](https://lovable.dev)
+Created with ❤️ by Saidul
