@@ -1,7 +1,12 @@
 
 # Canvas Creator - Interactive Drawing Application
 
-![Canvas Creator Logo](public/placeholder.svg)
+![Canvas Creator Logo]
+![image](https://github.com/user-attachments/assets/2282c0f5-65fd-4942-9136-263de2579181)
+
+# Demo Link :
+https://magnificent-paprenjak-5c758d.netlify.app/
+
 
 ## 🎨 Overview
 
